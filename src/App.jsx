@@ -1,5 +1,4 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
@@ -8,9 +7,11 @@ import Projects from './pages/Projects';
 import Skills from './pages/Skills';
 import Contact from './pages/Contact';
 
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+
 function App() {
   return (
-    <Router>
+    <Router basename="/alfedo-web-100">
       <Navbar />
       <div className="content">
         <Routes>
@@ -27,6 +28,7 @@ function App() {
 }
 
 export default App;
+
 
 // This is a simple React component that uses Tailwind CSS for styling.
 // It creates a centered card with a title and a paragraph.
