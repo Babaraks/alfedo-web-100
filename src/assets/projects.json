@@ -1,25 +1,25 @@
 [
     {
       "nombre": "Refill Snack",
-      "imagen": "/assets/proyecto_1.png",
+      "imagen": "/alfedo-web-100/assets/proyecto_1.png",
       "descripcion": "Este proyecto consiste en una app movil y otra web para la gestion de snacks y bebidas en multiples puntos de venta, con un almacen centralizado.",   
       "url": "https://github.com/Babaraks/Refill_Snack"
     },
     {
       "nombre": "Microservicios",
-      "imagen": "/assets/proyecto_2.jpg",
+      "imagen": "/alfedo-web-100/assets/proyecto_2.jpg",
       "descripcion": "Un sistema de microservicios para la gestión de usuarios y productos.",
       "url": "https://github.com/Babaraks/login_microservicio"
     },
     {
       "nombre": "Prototipo de un gestionador de biblioteca mediante vision artificial",
-      "imagen": "/assets/proyecto_3.png",
+      "imagen": "/alfedo-web-100/assets/proyecto_3.png",
       "descripcion": "Un prototipo de un sistema de gestión de biblioteca utilizando visión artificial para el reconocimiento de libros.",
       "url": "https://github.com/Babaraks/Proyecto_Modular_II"
     },
     {
       "nombre": "Juego de plataformas",
-      "imagen": "/assets/proyecto_4.png",
+      "imagen": "/alfedo-web-100/assets/proyecto_4.png",
       "descripcion": "Un juego de plataformas en 2D desarrollado con Cocos2d y python.",
       "url": "https://github.com/Babaraks/Juego"
     }
